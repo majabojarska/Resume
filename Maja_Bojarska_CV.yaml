@@ -1,17 +1,17 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
 cv:
   name: Maja Bojarska
-  headline:
-  location: San Francisco, CA
-  email: john.doe@email.com
+  headline: K8s Platform Developer
+  location: Wrocław, Poland
+  email: majabojarska98@gmail.com
   photo:
   phone:
-  website: https://rendercv.com/
+  website: https://majabojarska.dev
   social_networks:
     - network: LinkedIn
-      username: rendercv
+      username: majabojarska
     - network: GitHub
-      username: rendercv
+      username: majabojarska
   custom_connections:
   sections:
     Welcome to RenderCV:
