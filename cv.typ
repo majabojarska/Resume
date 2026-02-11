@@ -52,10 +52,12 @@
     #term[Jan 2022 --- Jun 2022][Wrocław, Poland]
    
     - Developed new image analysis procedures for automated extraction of playback characteristics in the temporal, spatial, and chromatic domains. Applied computer vision techniques for object recognition, pose estimation, feature extraction, and optical character recognition.
-    - Designed and implemented a scalable, virtualized infrastructure, built around Proxmox VE (QEMU/KVM) and CI pipelines. This provided the team with dedicated, reproducible development and testing environments at a time when the product hardware was in a bare-bones design phase.
-      - Maintained the hypervisors, trained the team on operations, documented day-to-day operations and runbooks.
+    - Designed and implemented a scalable, virtualized infrastructure, built around Proxmox VE (QEMU/KVM) and CI pipelines. This provided the team with dedicated, reproducible development and testing environments at a time when the product's hardware was in a bare-bones design phase.
+      - Maintained the hypervisors, trained the team, documented day-to-day operations and runbooks.
       - Coordinated the retrofitting of custom hardware peripherals into the virtualized infrastructure.
 
+    #colbreak()
+    
     #position[Associate Software Engineer in Test][Wrocław, Poland (hybrid)]
     _Dolby Laboratories_\
     #term[Mar 2020 --- Dec 2021][Wrocław, Poland]
@@ -103,9 +105,9 @@
     #term[2019 --- present][Wrocław, Poland]
  
     I maintain a #link("https://majabojarska.dev/posts/homelab-notes", "personal fleet of Linux-based servers and hypervisors") for fun, learning, and personal use.
-    - It's a lab for hands-on learning and experimentation with new software and computing paradigms.
+    - Environment for learning, experimentation, and service self-hosting.
     - Mostly based at home, with several off-site compute and storage locations.
     - Currently running #link("https://www.proxmox.com/en/products/proxmox-virtual-environment/overview", "PVE"), #link("https://nixos.org/", "NixOS"), and #link("https://k3s.io/", "K3s") as the platform foundations. 
-    - One of the few engineering projects where I'm not bound by an NDA. I'll gladly share every detail, ask me about it\!
+    - One of my few engineering projects that aren't bound by an NDA. I'll gladly share every single detail, ask me about it\!
   ],
 )
