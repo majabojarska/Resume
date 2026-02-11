@@ -1,9 +1,9 @@
 # My Resume
 
+[CLICK HERE FOR PDF ☺️](./cv.pdf)
+
 The CV is made in [typst](https://typst.app/), forked from [Alta
 Typst](https://github.com/GeorgeHoneywood/alta-typst).
-
-The compiled PDF is available [here](./cv.pdf).
 
 ## Usage
 
