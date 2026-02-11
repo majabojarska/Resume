@@ -24,14 +24,16 @@
     Working on the #link("https://www.akamai.com/products/kubernetes","Linode Kubernetes Engine") — a managed Kubernetes platform.
 
     - Developing dedicated K8s control plane components and building controllers around the #link("https://cluster-api.sigs.k8s.io/", "CAPI") framework.
-    - Building REST APIs, client SDKs and ORM for SQL-based DBs.
+    - Building REST APIs, client SDKs and ORM for SQL-based DBs. 
+    - Leading the development of new platform features, from design to deployment.
     - Regularly coordinating product releases across multiple teams, time zones, and 30+ regions.    
     - Responding to technical incidents and providing expertise for general product inquiries.
     - Writing product documentation (both internal and #link("https://techdocs.akamai.com/cloud-computing/docs/coredns-custom-config", "external")). 
-    - Preparing and presenting technical deep dives on the product's architecture, new features, and dev tooling.
+    - Conducting internal deep dives on the product's architecture, new features, and dev tooling.
     - Mentoring junior engineers to help them grow their engineering skillset.
     - Representing the product team on student job fairs and CNCF conferences.
-    - Conducting university lectures on the topics of containerization, Kubernetes, and software development practices.
+    - Giving university lectures on the topics of containerization, Kubernetes, and software development practices.
+    - Guided 20+ technical interviews for platform engineer position candidates.
 
     #position[Cloud Software Engineer][Gdańsk, Poland (remote)]
 
@@ -107,7 +109,7 @@
     I maintain a #link("https://majabojarska.dev/posts/homelab-notes", "personal fleet of Linux-based servers and hypervisors") for fun, learning, and personal use.
     - Environment for hands-on experimentation, and self-hosting services.
     - Mostly based at home, with several off-site compute and storage locations.
-    - Currently running #link("https://www.proxmox.com/en/products/proxmox-virtual-environment/overview", "PVE"), #link("https://nixos.org/", "NixOS"), and #link("https://k3s.io/", "K3s") as the platform foundations. 
+    - Currently running #link("https://www.proxmox.com/en/products/proxmox-virtual-environment/overview", "PVE"), #link("https://nixos.org/", "NixOS"), and #link("https://k3s.io/", "K3s"), #link("https://opnsense.org/", "OPNsense") as the platform foundations. 
     - One of my few engineering projects that aren't bound by an NDA. I'll gladly share every single detail, ask me about it\!
   ],
 )
