@@ -109,7 +109,7 @@
     I maintain a #link("https://majabojarska.dev/posts/homelab-notes", "personal fleet of Linux-based servers and hypervisors") for fun, learning, and personal use.
     - Environment for hands-on experimentation, and self-hosting services.
     - Mostly based at home, with several off-site compute and storage locations.
-    - Currently running #link("https://www.proxmox.com/en/products/proxmox-virtual-environment/overview", "PVE"), #link("https://nixos.org/", "NixOS"), and #link("https://k3s.io/", "K3s"), #link("https://opnsense.org/", "OPNsense") as the platform foundations. 
+    - Currently running #link("https://www.proxmox.com/en/products/proxmox-virtual-environment/overview", "PVE"), #link("https://nixos.org/", "NixOS"), and #link("https://k3s.io/", "K3s"), #link("https://opnsense.org/", "OPNsense"), and #link("https://doc.traefik.io/traefik/","Traefik") as the platform foundations. 
     - One of my few engineering projects that aren't bound by an NDA. I'll gladly share every single detail, ask me about it\!
   ],
 )
