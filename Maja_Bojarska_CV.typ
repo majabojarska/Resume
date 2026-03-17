@@ -7,7 +7,6 @@
     (name: "website", link: "https://majabojarska.dev", display: "majabojarska.dev"),
     (name: "github", link: "https://github.com/majabojarska", display: "majabojarska"),
     (name: "linkedin", link: "https://linkedin.com/in/majabojarska", display: "majabojarska"),
-    (name: "phone", link: "+48 453 237 333", display: "+48 453 237 333"),
   ),
   tagline: [
     Software engineer with 6+ years of diverse engineering experience.
