@@ -15,23 +15,28 @@
   [
     #show link: underline
     == Experience
+    #position[Senior Software Engineer][Wrocław, Poland (remote)]
+    _Sidero Labs_\
+    #term[May 2026 --- Present][Wrocław, Poland (remote)]
+
+    Developing #link("https://www.siderolabs.com/talos-linux","Talos Linux") – an immutable, declarative Linux-based operating system for Kubernetes.
 
     #position[Senior Platform Engineer][Wrocław, Poland (remote)]
     _Akamai Technologies_\
     #term[Sep 2023 --- Present][Wrocław, Poland (remote)]
 
-    Working on the #link("https://www.akamai.com/products/kubernetes","Linode Kubernetes Engine") — a managed Kubernetes platform.
+    Worked on the #link("https://www.akamai.com/products/kubernetes","Linode Kubernetes Engine") — a managed Kubernetes platform.
 
-    - Developing dedicated K8s control plane components and building controllers around the #link("https://cluster-api.sigs.k8s.io/", "CAPI") framework.
-    - Building REST APIs, client SDKs and ORM for SQL-based DBs. 
-    - Leading the development of new platform features, from design to deployment.
-    - Regularly coordinating product releases across multiple teams, time zones, and 30+ regions.    
-    - Responding to technical incidents and providing expertise for general product inquiries.
-    - Writing product documentation (both internal and #link("https://techdocs.akamai.com/cloud-computing/docs/coredns-custom-config", "external")). 
-    - Conducting internal deep dives on the product's architecture, new features, and dev tooling.
-    - Mentoring junior engineers to help them grow their engineering skillset.
-    - Representing the product team on student job fairs and CNCF conferences.
-    - Giving university lectures on the topics of containerization, Kubernetes, and software development practices.
+    - Developed dedicated K8s control plane components and building controllers around the #link("https://cluster-api.sigs.k8s.io/", "CAPI") framework.
+    - Built REST APIs, client SDKs and ORM for SQL-based DBs. 
+    - Lead the development of new platform features, from design to deployment.
+    - Regularly coordinated product releases across multiple teams, time zones, and 30+ regions.    
+    - Responded to technical incidents and providing expertise for general product inquiries.
+    - Wrote product documentation (both internal and #link("https://techdocs.akamai.com/cloud-computing/docs/coredns-custom-config", "external")). 
+    - Conducted internal deep dives on the product's architecture, new features, and dev tooling.
+    - Mentored junior engineers to help them grow their engineering skillset.
+    - Represented the product team on student job fairs and CNCF conferences.
+    - Gave university lectures on the topics of containerization, Kubernetes, and software development practices.
     - Guided 20+ technical interviews for platform engineer position candidates.
 
     #position[Cloud Software Engineer][Gdańsk, Poland (remote)]
